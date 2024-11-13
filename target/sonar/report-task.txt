@@ -1,0 +1,6 @@
+projectKey=com.accenture.ltt.HON1:HON1
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.accenture.ltt.HON1:HON1
+ceTaskId=AZMlq4fKHMBP6nqeT-id
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZMlq4fKHMBP6nqeT-id

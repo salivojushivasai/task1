@@ -1,0 +1,4 @@
+The maven codes for different phases are:
+- compiler:compiler
+- compiler:testCompile
+- jar:jar
